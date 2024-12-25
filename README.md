@@ -6,11 +6,11 @@
 
 ## 🚀 Features
 - Dynamic SSR (Server Side Rendered) WebPages
-- Anonymous Cart Can Be Without Signing In 
+- Anonymous Cart Can Be Created Without Signing In 
 - Google OAuth For SignIn Options And User-Specific Carts
 - Anonymous Carts Are Merged With User-Specific Carts When Signed In After Adding Items In Anonymous Cart First
 - One-Click Routing Solution For Adding New Products
-- AddProduct Button Only Pops Up When User Is Signed In And The Route Is Only Accessible For An ADMIN Type User
+- Add-Product Button Only Pops Up When User Is Signed In And The Route Is Only Accessible For An ADMIN Type User
 - New Product Page's Automatically Generated With productId In The URL Params
 - Automated Cart Summary Page
 
