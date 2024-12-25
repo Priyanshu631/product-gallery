@@ -7,7 +7,7 @@ import { Providers } from "./Providers";
 
 export const metadata: Metadata = {
   title: "SlipKart",
-  description: "Get Your Drip To Make Others Slip",
+  description: "Your Very Own Product Gallery",
 };
 
 export default function RootLayout({
