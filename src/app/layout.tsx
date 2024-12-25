@@ -20,7 +20,7 @@ export default function RootLayout({
       <body>
         <Providers>
           <Navbar />
-          <main className="m-auto min-w-[420px] max-w-7xl p-4">{children}</main>
+          <main className="m-auto min-w-[320px] max-w-7xl p-4">{children}</main>
           <Footer />
         </Providers>
       </body>
