@@ -41,5 +41,9 @@ git clone https://github.com/Priyanshu631/product-gallery.git
 npm install
 npm run dev
 ```
+
+## 📝 Contributors
+- Priyanshu Ranjan (Self)
+
 ## ⚖️ License
 - Check The LICENSE File In The Repo For MIT License.
