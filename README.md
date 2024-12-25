@@ -5,14 +5,19 @@
 ## Your Very Own Product Gallery ...
 
 ## 🚀 Features
-- Dynamic SSR (Server Side Rendered) WebPages
-- Anonymous Cart Can Be Created Without Signing In 
-- Google OAuth For SignIn Options And User-Specific Carts
-- Anonymous Carts Are Merged With User-Specific Carts When Signed In After Adding Items In Anonymous Cart First
-- One-Click Routing Solution For Adding New Products
-- Add-Product Button Only Pops Up When User Is Signed In And The Route Is Only Accessible For An ADMIN Type User
-- New Product Page's Automatically Generated With productId In The URL Params
-- Automated Cart Summary Page
+- Dynamic SSR (Server Side Rendered) WebPages.
+- Anonymous Cart Can Be Created Without Signing In.
+- Google OAuth For SignIn Options And User-Specific Carts.
+- Anonymous Carts Are Merged With User-Specific Carts When Signed In After Adding Items In Anonymous Cart First.
+- One-Click Routing Solution For Adding New Products.
+- Add-Product Button Only Pops Up When User Is Signed In And The Route Is Only Accessible For An ADMIN Type User.
+- New Product Page's Automatically Generated With productId In The URL Params.
+- Automated Cart Summary Page.
+- Clean UI For Better Visibility.
+- Database Transactions Employed To FailSafe Data Loss During An Erroneous Megre Of Carts.
+- Search Functionality Is Enforced Using URL Query Params.
+- Pagination's Implemented In A Similar Fashion Using URL Params.
+- Next.js Caching And Cookies Used For Faster Response Times And Local Data Storage.
 
 ## 📖 Table of Contents
 1. [Overview](#overview)
@@ -23,8 +28,8 @@
 ## 🔍 Overview
 This Project Aims To Add The Following Value Parameters:
 - Reassures Easy Implementation Of Server Functions And Client Components In A Single Dev Environment.
-- Demonstrates How Different APIs And Wrappers Can Be Utilized Seamlessly
-- Next.js, Prisma, TypeScript, TailwindCSS, NextAuth (Google OAuth Provider)
+- Demonstrates How Different APIs And Wrappers Can Be Utilized Seamlessly.
+- Next.js, Prisma, TypeScript, TailwindCSS, NextAuth (Google OAuth Provider) Used With MongoAtlas.
 
 ## ⚙️ Installation
 ```bash
